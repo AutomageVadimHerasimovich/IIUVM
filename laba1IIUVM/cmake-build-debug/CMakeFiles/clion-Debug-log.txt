@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2023.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\vader\CLionProjects\laba1IIUVM -B C:\Users\vader\CLionProjects\laba1IIUVM\cmake-build-debug
+-- Configuring done (0.1s)
+CMake Warning at CMakeLists.txt:8 (target_link_libraries):
+  Target "laba1IIUVM" requests linking to directory
+  "C:/Users/vader/CLionProjects/laba1IIUVM".  Targets may link only to
+  libraries.  CMake is dropping the item.
+
+
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/vader/CLionProjects/laba1IIUVM/cmake-build-debug
